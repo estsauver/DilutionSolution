@@ -76,6 +76,51 @@
         <string>uMol/uL</string>
        </property>
       </item>
+      <item>
+       <property name="text">
+        <string>nMol/L</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>nMol/mL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>nMol/uL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>nMol/pL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>pMol/L</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>pMol/mL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>pMol/uL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>pMol/nL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>pMol/pL</string>
+       </property>
+      </item>
      </widget>
     </item>
     <item>
@@ -182,6 +227,51 @@
       <item>
        <property name="text">
         <string>uMol/uL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>nMol/L</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>nMol/mL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>nMol/uL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>nMol/pL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>pMol/L</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>pMol/mL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>pMol/uL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>pMol/nL</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>pMol/pL</string>
        </property>
       </item>
      </widget>

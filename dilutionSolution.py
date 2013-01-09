@@ -38,7 +38,9 @@ class MainWindow(QMainWindow, Ui_Dialog):
 
 
     def accept(self):
-        unitConcDict = {"Mol/L":1.0,"mMol/L":0.001,"mMol/mL":1.0,"mMol/uL":1000,"uMol/L":0.000001, "uMol/mL":0.001,"uMol/uL":1.0}
+        unitConcDict = {"Mol/L":1.0,"mMol/L":0.001,"mMol/mL":1.0,"mMol/uL":1000,"uMol/L":0.000001, "uMol/mL":0.001,
+                        "uMol/uL":1.0,"nMol/L":0.000000001, "nMol/mL":0.000001, "nMol/uL":0.001, "nMol/nL":1.0,"nMol/pL":1000.0,
+                        "pMol/L":0.000000000001,"pMol/mL":0.000000001, "pMol/uL":0.000001, "pMol/nL":0.001, "pMol/pL":1}
         unitVolDict = {"L":1.0,"mL":0.001,"uL":0.000001,"pL":0.000000001}
         desConc = float(self.desConcValue.text())
         desConcUnitsString = self.desConcUnits.currentItem().text()
