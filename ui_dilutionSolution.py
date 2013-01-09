@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'dilutionSolution.ui'
 #
-# Created: Tue Jan  8 21:50:55 2013
+# Created: Tue Jan  8 21:54:02 2013
 #      by: pyside-uic 0.2.13 running on PySide 1.1.0
 #
 # WARNING! All changes made in this file will be lost!
@@ -19,7 +19,7 @@ class Ui_Dialog(object):
         sizePolicy.setHeightForWidth(Dialog.sizePolicy().hasHeightForWidth())
         Dialog.setSizePolicy(sizePolicy)
         self.verticalLayoutWidget = QtGui.QWidget(Dialog)
-        self.verticalLayoutWidget.setGeometry(QtCore.QRect(20, 10, 164, 411))
+        self.verticalLayoutWidget.setGeometry(QtCore.QRect(20, 10, 211, 561))
         self.verticalLayoutWidget.setObjectName("verticalLayoutWidget")
         self.verticalLayout = QtGui.QVBoxLayout(self.verticalLayoutWidget)
         self.verticalLayout.setContentsMargins(0, 0, 0, 0)
@@ -56,7 +56,7 @@ class Ui_Dialog(object):
         QtGui.QListWidgetItem(self.desVolUnits)
         self.verticalLayout.addWidget(self.desVolUnits)
         self.verticalLayoutWidget_2 = QtGui.QWidget(Dialog)
-        self.verticalLayoutWidget_2.setGeometry(QtCore.QRect(200, 10, 164, 411))
+        self.verticalLayoutWidget_2.setGeometry(QtCore.QRect(280, 10, 291, 561))
         self.verticalLayoutWidget_2.setObjectName("verticalLayoutWidget_2")
         self.verticalLayout_2 = QtGui.QVBoxLayout(self.verticalLayoutWidget_2)
         self.verticalLayout_2.setContentsMargins(0, 0, 0, 0)
